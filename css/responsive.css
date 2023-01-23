@@ -1,0 +1,58 @@
+@media(max-width:576px)
+{
+.navbar-brand
+{
+    margin-left: -140px;
+}
+.jenny
+{
+    padding-left:0px; 
+    padding-right:0px;
+    padding: 5px;
+
+    
+}
+.jenny-bio
+{
+    padding-left:0px;
+    padding-right:0px;
+    
+  
+}
+.btn
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img1
+{
+    padding-bottom: 35px;
+}
+
+.footer
+{
+    padding-left:15px; 
+    padding-right:15px;
+}
+
+.contact-detail
+{
+    padding-left:0px;
+     padding-right:0px;
+}
+.contact-info1
+{
+    padding-bottom: 10px;
+}
+
+.input1
+{
+padding: 10px 87px 10px 20px;
+}
+.input2
+{
+    padding: 10px 87px 10px 20px;
+}
+
+
+}
